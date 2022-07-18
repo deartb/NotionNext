@@ -2,8 +2,8 @@
 
 基于 Notion + Vercer 的静态博客系统
 
- - Github [](https://github.com/tangly1024/NotionNext)
- - 博客文档 [](https://tangly1024.com/article/notion-next)
+ - Github [https://tangly1024.com/article/notion-next](https://github.com/tangly1024/NotionNext)
+ - 博客文档 [https://tangly1024.com/article/notion-next](https://tangly1024.com/article/notion-next)
 ## 优点 ✨ 
 
 **🚀 &nbsp;秒开，设备全适配**
