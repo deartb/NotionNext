@@ -1,10 +1,10 @@
-# [NotionNext](https://tangly1024.com/article/notion-next)
+## NotionNext
 
 基于 Notion + Vercer 的静态博客系统
 
  - Github [https://tangly1024.com/article/notion-next](https://github.com/tangly1024/NotionNext)
  - 博客文档 [https://tangly1024.com/article/notion-next](https://tangly1024.com/article/notion-next)
-## 优点 ✨ 
+### 优点 ✨ 
 
 **🚀 &nbsp;秒开，设备全适配**
 
@@ -27,6 +27,6 @@
 - 丰富的配置项，更支持多语言
 - 使用 Tailwind CSS，轻松实现二次开发
 
-## License
+### License
 
 The MIT License.
