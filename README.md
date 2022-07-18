@@ -1,7 +1,6 @@
-# NotionNext
+# [NotionNext](https://tangly1024.com/article/notion-next)
 
-一个使用 NextJS + Notion API 实现的静态博客系统, 部署在 Vercel 上。
-[博客](https://tangly1024.com/article/notion-next)
+基于 Notion + Vercer 的静态博客系统
 
 ## 优点 ✨ 
 
